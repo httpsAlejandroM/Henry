@@ -1,0 +1,9 @@
+Objeto: Un objeto es una coleccion de propiedades.
+
+Propiedades: Una propiedad es una asociacion entre un nombre (o clave) y un valor.
+
+Metodo: Es una propiedad la cual su "valor" es una funcion.
+
+For in: Es un bucle que itera sobre cada par clave-valor(propiedades) de un objeto.
+
+Notacion de puntos y corchetes: Son las formas en las que se puede asignar o invocar el valor de un objeto. 

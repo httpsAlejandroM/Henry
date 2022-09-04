@@ -1,0 +1,1 @@
+Un array es una variable que guarda una lista de datos de cualquier tipo
