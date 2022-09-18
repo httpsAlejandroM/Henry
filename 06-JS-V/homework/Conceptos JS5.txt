@@ -1,0 +1,3 @@
+Prototype: Es el mecanismo por e lcual los objetos heredan propiedades/metodos unos de otros.
+
+Constructor: es un tipo especial de funcion que actua como molde para crear nuevos objetos.
