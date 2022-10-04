@@ -1,0 +1,39 @@
+#divPadre {
+    width: 400px;
+    background-color: rgb(58, 58, 73);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+#divTio {
+    width: 600px;
+    text-align: center;
+    background-color: white;
+}
+#habilidades {
+    width: 400px;
+}
+body{
+    background: url(https://d3ugyf2ht6aenh.cloudfront.net/stores/870/449/products/ladrillo-bl1-44e6dc14f9b56d89cf15937073784874-1024-1024.jpg);
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+img {
+    width: 250px;
+    height: 300px
+}
+ul {
+    margin: 0%;
+    padding-left: 0%;
+    list-style: none;
+}
+.divTitulo{
+    background-color: rgb(230, 201, 176);
+  }
+  .letraRosa{
+    color: rgb(230, 201, 176);
+  }
